@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <NuxtPage>login.vue</NuxtPage>
   </div>
 </template>
