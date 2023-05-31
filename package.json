@@ -17,6 +17,7 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
+    "@nuxtjs/i18n": "^7.3.1",
     "@pinia/nuxt": "^0.4.11",
     "pinia": "^2.1.3"
   }
